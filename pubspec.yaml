@@ -1,0 +1,10 @@
+name: pf_flutter_form
+version: 1.0.0
+description: >-
+  Problem Fighter Flutter Form Package
+homepage: https://github.com/problemfighter/pf-flutter-form
+documentation: https://hmtmcse.com/df-lib/box/pf-flutter-form
+environment:
+  sdk: '>=2.13.0 <3.0.0'
+dev_dependencies:
+  test: '>=1.15.0 <2.0.0'
